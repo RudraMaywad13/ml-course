@@ -1,5 +1,0 @@
-cd desktop
-cd ml-course
-cd sample_project_1
-conda activate  ./env
-jupyter notebook

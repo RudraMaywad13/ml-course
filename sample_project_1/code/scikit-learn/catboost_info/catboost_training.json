@@ -1,0 +1,9 @@
+{
+"meta":{"test_sets":["eval_dataset"],"test_metrics":[{"best_value":"Max","name":"Accuracy"},{"best_value":"Max","name":"Precision"},{"best_value":"Max","name":"F1"},{"best_value":"Max","name":"Recall"}],"learn_metrics":[],"launch_mode":"Eval","parameters":"","iteration_count":5,"learn_sets":[],"name":""},
+"iterations":[
+{"iteration":0,"eval_dataset":[0.8360655738,0.8928571429,0.8333333333,0.78125]},
+{"iteration":1,"eval_dataset":[0.8852459016,0.8787878788,0.8923076923,0.90625]},
+{"iteration":2,"eval_dataset":[0.868852459,0.875,0.875,0.875]},
+{"iteration":3,"eval_dataset":[0.868852459,0.8529411765,0.8787878788,0.90625]},
+{"iteration":4,"eval_dataset":[0.8524590164,0.8484848485,0.8615384615,0.875]}
+]}
